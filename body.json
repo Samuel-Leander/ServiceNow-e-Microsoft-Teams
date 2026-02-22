@@ -1,0 +1,25 @@
+{
+    "@type": "MessageCard",
+    "@context": "http://schema.org/extensions",
+    "summary": "Incidente Crítico",
+    "themeColor": "FF0000",
+    "title": "🚨 Incidente Crítico Aberto",
+    "sections": [
+        {
+            "facts": [
+                {
+                    "name": "Número",
+                    "value": "INC0010001"
+                },
+                {
+                    "name": "Prioridade",
+                    "value": "1 - Critical"
+                },
+                {
+                    "name": "Descrição",
+                    "value": "Servidor indisponível"
+                }
+            ]
+        }
+    ]
+}
